@@ -37,7 +37,7 @@ $messages['orderservices_buy'] = 'COMPRAR';
 $messages['dashboard_viewcart_navbar'] = 'Carrito de la compra';
 
 $messages['dashboard_viewcart_card1_title'] = 'OPCIONES EXTRA';
-$messages['dashboard_viewcart_card1_chooseloc'] = 'Elige una localizacion';
+$messages['dashboard_viewcart_card1_chooseloc'] = 'Elige una localización';
 
 $messages['dashboard_viewcart_card2_product'] = 'Producto';
 $messages['dashboard_viewcart_card2_price'] = 'Precio';
@@ -61,9 +61,9 @@ $messages['console_card1_typecmd'] = 'Escribe un comando';
 $messages['console_card1_execute'] = 'Ejecutar';
 
 $messages['console_card2_title'] = 'Acciones';
-$messages['console_card2_start'] = 'Start';
-$messages['console_card2_stop'] = 'Stop';
-$messages['console_card2_restart'] = 'Restart';
+$messages['console_card2_start'] = 'Empezar';
+$messages['console_card2_stop'] = 'Parar';
+$messages['console_card2_restart'] = 'Reiniciar';
 
 $messages['console_card3_title'] = 'Renombrar';
 $messages['console_card3_typename'] = '¡Elige un nombre increible para tu servidor!';
@@ -75,12 +75,12 @@ $messages['console_card4_ram'] = 'RAM';
 $messages['console_card4_serverid'] = 'Servidor ID';
 $messages['console_card4_node'] = 'Nodo';
 $messages['console_card4_ftphost'] = 'FTP Host';
-$messages['console_card4_ftpport'] = 'FTP Port';
+$messages['console_card4_ftpport'] = 'FTP Puerto';
 $messages['console_card4_ftpusr'] = 'FTP Usuario';
 $messages['console_card4_ftpasst'] = 'FTP Password';
 $messages['console_card4_ftpass'] = 'MOSTRAR';
 
-$messages['console_modal_title'] = 'TU FTP PASSWORD';
+$messages['console_modal_title'] = 'TU PASSWORD DE FTP';
 $messages['console_modal_reset'] = 'RESET';
 $messages['console_modal_close'] = 'CERRAR';
 
@@ -151,7 +151,7 @@ $messages['api_register_email'] = '¡Ooops! ¡Esta dirección de email ya ha sid
 $messages['api_register_username'] = '¡Oh Oh! Alguien ya está usando este nombre de usuario :( ¿Puede pensar otro?';
 
 //login
-$messages['api_login_success'] = '¡Bienvenido al Panel de Control de NoLag Beta!';
+$messages['api_login_success'] = '¡Bienvenido al Panel de Control de NoLag - Fase Beta!';
 $messages['api_login_failed'] = '¡Esta combinación de email y contraseña no es válida.';
 
 //checkout
